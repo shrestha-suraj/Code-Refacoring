@@ -1,4 +1,4 @@
-# Group4
+# Code-Refactoring
 
 ## This project is about Code Complexity Analysis and Refactoring.
 ## The code is not bugged but is complex for new developers to understand. Hence, the concept of Hotspots
